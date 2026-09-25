@@ -1,0 +1,2 @@
+Why did the function stop calling its ex?
+It finally found closure.
